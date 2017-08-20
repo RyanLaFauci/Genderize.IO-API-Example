@@ -1,0 +1,8 @@
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\bin\Debug\DetermineGender.exe.config
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\bin\Debug\DetermineGender.exe
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\bin\Debug\DetermineGender.pdb
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\obj\Debug\DetermineGender.exe
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\obj\Debug\DetermineGender.pdb
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\bin\Debug\Newtonsoft.Json.dll
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\bin\Debug\Newtonsoft.Json.xml
+c:\users\donut\documents\visual studio 2017\Projects\DetermineGender\DetermineGender\obj\Debug\DetermineGender.csprojResolveAssemblyReference.cache
